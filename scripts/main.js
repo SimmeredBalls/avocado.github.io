@@ -24,7 +24,7 @@ function setUserName() {
       setUserName();
     } else {
       localStorage.setItem("name", myName);
-      myHeading.textContent = `Mozilla is cool, ${myName}`;
+      myHeading.textContent = `Anime girls with guns is cool, ${myName}`;
     }
   }
   
